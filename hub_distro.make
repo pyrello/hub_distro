@@ -5,7 +5,7 @@ api = 2
 projects[] = "drupal"
 
 ; Profiles :: Hub
-projects[preservation][type] = "profile"
-projects[preservation][download][type] = "git"
-projects[preservation][download][url] = "git://github.com/webgeeks/hub.git"
-projects[preservation][download][branch] = "7.x-1.x"
+projects[hub][type] = "profile"
+projects[hub][download][type] = "git"
+projects[hub][download][url] = "git://github.com/webgeeks/hub.git"
+projects[hub][download][branch] = "7.x-1.x"
